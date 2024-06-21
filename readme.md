@@ -57,5 +57,5 @@ To use this model, clone the repository and ensure you have the necessary depend
 
 ```bash
 git clone https://github.com/aymen-000/AIQuest_DATATHON.git
-cd AIQuest_DATATHON/AIQUEST
+cd AIQuest_DATATHON
 pip install -r requirements.txt
