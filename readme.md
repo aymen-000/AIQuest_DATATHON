@@ -34,19 +34,21 @@ The model achieved an accuracy of 91% on the validation set. Below are some samp
 
 ### Sample Predictions:
 
-![Sample Predictions](./imgs/anemia_results.png)
+![Sample Predictions](https://github.com/aymen-000/AIQuest_DATATHON/blob/main/imgs/anemia_results.PNG)
 
 ### Accuracy Plot:
 
-![Accuracy Plot](./imgs/accuracy.png)
+![Accuracy Plot](https://github.com/aymen-000/AIQuest_DATATHON/blob/main/imgs/accuracy.PNG)
 
 ### Loss Plot:
 
-![Loss Plot](./imgs/loss.png)
+![Loss Plot](https://github.com/aymen-000/AIQuest_DATATHON/blob/main/imgs/loss.PNG)
 
 ### Model Archtacteur :
 
-![model](./imgs/mode.PNG)
+![model](https://github.com/aymen-000/AIQuest_DATATHON/blob/main/imgs/mode.PNG)
+
+
 The plot shows the training and validation accuracy over 100 epochs, demonstrating the model's learning progression.
 
 ## Usage
